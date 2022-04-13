@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1616598172 source:c:\users\mateu\dysk google\studia\podstawy programowania\c++\zadania przygotowuj¹ce\sklep\src\cprodukt.cpp
+	<cProdukt.h>
+
+1616599453 c:\users\mateu\dysk google\studia\podstawy programowania\c++\zadania przygotowuj¹ce\sklep\include\cprodukt.h
+	<string>
+	<iostream>
+
+1616599245 source:c:\users\mateu\dysk google\studia\podstawy programowania\c++\zadania przygotowuj¹ce\sklep\main.cpp
+	<cProdukt.h>
+	<iostream>
+
+1616606738 source:c:\users\mateu\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\src\cprodukt.cpp
+	<cProdukt.h>
+
+1616606738 c:\users\mateu\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\include\cprodukt.h
+	<string>
+	<iostream>
+
+1616606622 source:c:\users\mateu\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\main.cpp
+	<cProdukt.h>
+	<iostream>
+
+1617200749 source:c:\users\chadzyn\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\main.cpp
+	<cProdukt.h>
+	<cWarzywo.h>
+	<iostream>
+
+1617200662 c:\users\chadzyn\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\include\cprodukt.h
+	<string>
+	<iostream>
+
+1617200089 source:c:\users\chadzyn\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\src\cprodukt.cpp
+	<cProdukt.h>
+
+1617200633 source:c:\users\chadzyn\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\src\cwarzywo.cpp
+	"cWarzywo.h"
+
+1617200677 c:\users\chadzyn\dysk google\studia\podstawy programowania obiektowego\pierwsza lekcja\sklep\include\cwarzywo.h
+	<cProdukt.h>
+
+1617802917 source:c:\users\surface\onedrive\pulpit\sklep\sklep\src\cprodukt.cpp
+	<cProdukt.h>
+
+1617802594 c:\users\surface\onedrive\pulpit\sklep\sklep\include\cprodukt.h
+	<string>
+	<iostream>
+
+1617802595 source:c:\users\surface\onedrive\pulpit\sklep\sklep\src\cwarzywo.cpp
+	"cWarzywo.h"
+
+1617802594 c:\users\surface\onedrive\pulpit\sklep\sklep\include\cwarzywo.h
+	<cProdukt.h>
+
+1617805177 source:c:\users\surface\onedrive\pulpit\sklep\sklep\main.cpp
+	<cProdukt.h>
+	<cWarzywo.h>
+	<iostream>
+	"cBaza.h"
+	"cWezel.h"
+
+1617804369 source:c:\users\surface\onedrive\pulpit\sklep\sklep\src\cwezel.cpp
+	"cWezel.h"
+
+1617805310 c:\users\surface\onedrive\pulpit\sklep\sklep\include\cwezel.h
+	"cProdukt.h"
+
+1617805096 source:c:\users\surface\onedrive\pulpit\sklep\sklep\src\cbaza.cpp
+	"cBaza.h"
+	<iostream>
+
+1617804901 c:\users\surface\onedrive\pulpit\sklep\sklep\include\cbaza.h
+	"cWezel.h"
+
+1617805177 source:c:\users\fidle\onedrive\dokumenty\pwr\po\sklep\sklep\main.cpp
+	<cProdukt.h>
+	<cWarzywo.h>
+	<iostream>
+	"cBaza.h"
+	"cWezel.h"
+
+1617802594 c:\users\fidle\onedrive\dokumenty\pwr\po\sklep\sklep\include\cprodukt.h
+	<string>
+	<iostream>
+
+1617802594 c:\users\fidle\onedrive\dokumenty\pwr\po\sklep\sklep\include\cwarzywo.h
+	<cProdukt.h>
+
+1617807473 c:\users\fidle\onedrive\dokumenty\pwr\po\sklep\sklep\include\cbaza.h
+	"cWezel.h"
+
+1617805310 c:\users\fidle\onedrive\dokumenty\pwr\po\sklep\sklep\include\cwezel.h
+	"cProdukt.h"
+
+1617802917 source:c:\users\fidle\onedrive\dokumenty\pwr\po\sklep\sklep\src\cprodukt.cpp
+	<cProdukt.h>
+
+1617802595 source:c:\users\fidle\onedrive\dokumenty\pwr\po\sklep\sklep\src\cwarzywo.cpp
+	"cWarzywo.h"
+
